@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pytesseract
+pdf2image
+Pillow
+easyocr 
+PyMuPDF
+tqdm
+arabic-reshaper 
+python-bidi
